@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          New project status
+          I was changed on the feature branch
         </a>
       </header>
     </div>
